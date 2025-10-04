@@ -14,6 +14,8 @@ Players can:
 
 The game features **self-governed systems** such as **Cyber Laws**, empowering the community to maintain **balance, fairness, and respect** while exploring, creating, and building lasting connections.  
 
+[Visit Cyber Society Website](https://www.goldtokens.net/society)
+
 ---
 
 ## 🎯 Vision & Expansion
