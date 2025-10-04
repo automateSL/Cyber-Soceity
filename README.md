@@ -1,4 +1,4 @@
-🌌 Cyber Society
+🌌 #Cyber Society
 
 Cyber Society is a virtual society role-playing game set in the boundless Cyber Universe.
 
