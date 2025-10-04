@@ -31,6 +31,6 @@ Join us in shaping a society where **imagination knows no bounds**, **friendship
 
 ## ⚡ Getting Started
 
-1. Clone this repository:  
+1. Copy/Paste SLURL in your local chat in Second Life:  
    ```bash
-   git clone https://github.com/yourusername/cyber-society.git
+   git clone [https://github.com/yourusername/cyber-society.git](http://maps.secondlife.com/secondlife/Business%20Park/36/136/23)
